@@ -1,0 +1,13 @@
+
+2017-07-06
+airgeddon. Decrypted password using aircrack
+
+BSSID: B0:89:00:DD:18:82
+
+---------------
+
+00000000
+
+---------------
+
+If you enjoyed the script and found it useful, you can support the project by making a donation. Through Paypal (v1s1t0r.1s.h3r3@gmail.com) or sending a fraction of a bitcoin (1AKnTXbomtwUzrm81FRzi5acSSXxGteGTH). Any amount, no matter how small (1, 2, 5 $/€) is welcome. More information and direct links to do it at: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Contributing
